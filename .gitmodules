@@ -7,3 +7,8 @@
 	path = code/Name-not-found
 	url = https://github.com/KaiserTim/Name-not-found
 	branch = master
+[submodule "outputs"]
+	path = outputs
+	url = ./outputs
+	branch = master
+	datalad-id = a14f181c-4e5f-11ea-aee9-88b111935c51
