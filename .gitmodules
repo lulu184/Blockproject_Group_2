@@ -1,0 +1,5 @@
+[submodule "inputs"]
+	path = inputs
+	url = https://jugit.fz-juelich.de/hhu_course_algorithms_and_advanced_programming/data.git
+	branch = master
+	datalad-id = 84993c06-469a-11ea-9875-f832e4bcbbfb
